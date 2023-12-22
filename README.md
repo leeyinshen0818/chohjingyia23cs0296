@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Choh Jing Yi(A23CS0296)</h1>
 <h3 align="center">Y1/SECBH , UTM student :)</h3>
-![New Image Alt Text](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966){: style="float: right; margin-right: 7px;" width="400"}
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d3a9f3a787ffc69aa73aa0a5cb5a29b968b823b62d80f7b589a705664dde9e2b/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chohjingyia23cs0296&label=Profile%20views&color=0e75b6&style=flat" alt="chohjingyia23cs0296" /> </p>
 
@@ -39,5 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chohjingyia23cs0296&show_icons=true&locale=en" alt="chohjingyia23cs0296" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chohjingyia23cs0296&" alt="chohjingyia23cs0296" /></p>
-
 

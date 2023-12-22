@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chohjingyia23cs0296&show_icons=true&locale=en" alt="chohjingyia23cs0296" /></p>
 
-<p align="center">Citation: Learn how to create a Next level GitHub profile README: [Next level GitHub profile README (new 2022)(Markdown template)](https://youtu.be/G-EGDH50hGE?si=-mc2UgW5Gggxw6Oc) by [Improve your github profiles](https://www.youtube.com/c/Improveyourgithubprofiles) on YouTube (Published on January 1, 2022).</p>
+<p align="center">Citation: Learn how to create a Next level GitHub profile README: [Next level GitHub profile README (new 2022)(Markdown template)](https://youtu.be/G-EGDH50hGE?si=-mc2UgW5Gggxw6Oc)on YouTube (Published on January 1, 2022).</p>

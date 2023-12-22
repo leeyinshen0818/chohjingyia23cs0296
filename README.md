@@ -19,6 +19,16 @@ CERTIFICATE
 -Sijil Pelajaran Malaysia (10A)
 -Foundation of Physical Science (CGPA3.97)
 
+AWARD
+-Sinchew Newspaper Competition
+-Academic Excellence Award
+-Community Service Award
+-Team Collaboration Award
+
+PROJECT
+-DNA Sequence Analysis
+-Shop Item Price Calculator
+
 
 
 

@@ -12,21 +12,21 @@
 
 <p align="left"> <a href="https://twitter.com/yi_chohey" target="blank"><img src="https://img.shields.io/twitter/follow/yi_chohey?logo=twitter&style=for-the-badge" alt="yi_chohey" /></a> </p>
 
-- 🔭 I’m currently studying at <span style="font-weight: bold;">Universiti Teknologi Malaysia</span>.
+- **🔭 I’m currently studying at** *Universiti Teknologi Malaysia*.
 
-- 🌱 I’m exploring <span style="font-style: italic;">data analysis, computational biology, and programming</span> to broaden my skills and understanding.
+- **🌱 I’m exploring** *data analysis, computational biology, and programming* to broaden my skills and understanding.
 
-- 👯 Pursued my foundational education in <span style="text-decoration: underline;">Physical Science at UTM</span> and currently enrolled in <span style="font-weight: bold;">Computer Science (Bioinformatics)</span>.
+- **👯 Pursued my foundational education in** *Physical Science at UTM* and currently enrolled in **Computer Science (Bioinformatics)**.
 
-- 👨‍💻 Check out my programming skills <a href="https://1drv.ms/u/s!Auecz_VMbmrgu3IcnmquIZ5BE7Vm?e=u1GK9a" style="color: blue;">here</a>.
+- **👨‍💻 Check out my programming skills [here](https://1drv.ms/u/s!Auecz_VMbmrgu3IcnmquIZ5BE7Vm?e=u1GK9a).**
 
-- 💬 I’m passionate about <span style="color: green;">Programming, Basketball, and Badminton</span>.
+- **💬 I’m passionate about** *Programming, Basketball, and Badminton*.
 
-- 📫 Reach me at <a href="mailto:jingyichoh@gmail.com" style="color: red; text-decoration: none;">jingyichoh@gmail.com</a>.
+- **📫 Reach me at [jingyichoh@gmail.com](mailto:jingyichoh@gmail.com).**
 
-- 📄 Explore my experiences <a href="https://www.canva.com/design/DAFNxIjiyL0/0t2mQN_8e3Ghk7TgvWgiXw/edit" style="color: purple;">here</a>.
+- **📄 Explore my experiences [here](https://www.canva.com/design/DAFNxIjiyL0/0t2mQN_8e3Ghk7TgvWgiXw/edit).**
 
-- ⚡ Fun fact: **Did you know that the first computer programmer was a woman named Ada Lovelace? She wrote the first algorithm designed to be processed by a machine, making her the world's first computer programmer, way back in the 1800s!**
+- **⚡ Fun fact:** *Did you know that the first computer programmer was a woman named Ada Lovelace? She wrote the first algorithm designed to be processed by a machine, making her the world's first computer programmer, way back in the 1800s!*
 
 
 <h3 align="left">Connect with me:</h3>
